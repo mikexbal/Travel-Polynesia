@@ -1,32 +1,61 @@
-*{
+* {
     font-family: "Manrope", Arial, Helvetica, sans-serif;
 }
 
+html, body {
+    margin: 0;
+    padding-top: 20px;
+}
+
 header {
+    top: 0;
+    width: 100%;
     background-color: blue;
-    padding-top: 0;
+    height: 60px; /* Adjust height as needed */
+    /* Choose one of these positioning options: */
+    position: fixed; /* Stays at top when scrolling */
+    /* OR */
+    /* position: relative; */ /* Just at the top of the page */
+    padding-bottom: 15px;
+    padding-left: 10px;
 }
 
 main {
     display: flex;
     flex-direction: row;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 70px; /* Add padding to prevent content from hiding behind fixed header */
+}
+
+.destination {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 50px;
 }
 
 .destination-card {
     background-color: grey;
     width: 400px;
-    height: 200px;
-    padding: 20px;
+    height: 300px;
     border-radius: 15px;
+    overflow: hidden;
+    font-size: 14px;
 
 }
 
 .destination-card img {
-    color: green;
     width: 100%;
     height: 50%;
-
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 
-
-
+.destination-card p, h3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    margin: 10px 0;
+}
