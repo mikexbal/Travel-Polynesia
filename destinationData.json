@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Hawaii",
+    "image": "imageurl",
+    "short-desciption": "Discover Hawaii, where breathtaking beaches, tropical adventures, and the enchanting aloha spirit make every moment unforgettable!",
+    "details": {
+      "long-desciption": ""
+    }
+  }
+]
