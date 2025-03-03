@@ -7,12 +7,13 @@ async function loadDestinations(){
 
         let divContainer = document.getElementById("destination-container");
         
-        destinationData.islands.forEach(island => { 
+        destinationData.destinations.forEach(location => { 
             let div = document.createElement('div');
             div.className = 'destination-card';
             div.innerHTML = 
-            `<h3>${island.name}</h3>
-            <p>${island.age}</p>`;
+            `<img src="${location.image}" alt="Hawaii Beach"/>
+            <h2>${location.name}</h2>
+            <p>${location.short_desc}</p>`;
            divContainer.appendChild(div);
         });
 
@@ -22,4 +23,4 @@ async function loadDestinations(){
     }
 }
 
-window.onload = loadDestinations;
+loadDestinations();
