@@ -4,36 +4,38 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Polynesian Destinations</title>
-    <link rel="stylesheet" href="dest.css" />
+    <link rel="stylesheet" href="styles.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
       rel="stylesheet"
     />
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtr9npmb2XWuAiXGX9svpn7H6gwjk3X8E&callback=console.debug&libraries=maps,marker&v=beta"></script>
   </head>
   <body>
     <header>
-      <h1>Welcome to Travel Polynesia</h1>
+      <h1>Book Your Experience: Your Getaway Awaits...</span></h1>
     </header>
-    <main>
+
+    <gmp-map center="21.306791305541992,-157.8557891845703" zoom="14" map-id="DEMO_MAP_ID">
+      <gmp-advanced-marker position="21.306791305541992,-157.8557891845703" title="My location"></gmp-advanced-marker>
+    </gmp-map>
+    
+    <main id="form">
       <div id="destination-form">
-        <h2>Samoa</h2>
-        <img src="https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Samoa">
+
+      
+          <img src="https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Samoa">
+          <gmp-map center="21.306791305541992,-157.8557891845703" zoom="10" map-id="Hawaii">
+            <gmp-advanced-marker position="21.306791305541992,-157.8557891845703" title="My location"></gmp-advanced-marker>
+          </gmp-map>
+    
+
+        <h2>Soamoa</h2>
         <p>Samoa offers pristine waterfalls, volcanic craters, and rich cultural heritage. Swim in natural pools, hike rainforest trails, and experience the warm Fa’a Samoa hospitality.</p>
       </div>
     </main>
-
-    <p>Work in progess...We got you covered!</p>
-
-    <!--Islands:
-    Hawaii
-    Aotearoa
-    Fiji
-    Tahiti
-    Tonga
-    Samoa-->
-
     <script src="script.js"></script>
   </body>
 </html>

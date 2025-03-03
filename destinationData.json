@@ -4,7 +4,9 @@
     "id": 1,
     "name": "Hawaii",
     "image": "https://images.unsplash.com/photo-1545973586-829e3762e3a6?q=80&w=3058&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-    "short_desc": "Hawaii offers stunning beaches, lush rainforests, and majestic volcanoes. Enjoy surfing, hiking, and rich culture while experiencing breathtaking sunsets and warm Aloha spirit."
+    "short_desc": "Hawaii offers stunning beaches, lush rainforests, and majestic volcanoes. Enjoy surfing, hiking, and rich culture while experiencing breathtaking sunsets and warm Aloha spirit.",
+    "long_desc": "",
+    "coordinates": ""
     },
     
     { 
