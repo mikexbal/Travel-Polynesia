@@ -24,3 +24,4 @@ async function loadDestinations(){
 }
 
 loadDestinations();
+//Create a load booking function for destination.html

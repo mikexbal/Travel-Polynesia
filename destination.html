@@ -18,24 +18,44 @@
       <h1>Book Your Experience: Your Getaway Awaits...</span></h1>
     </header>
 
-    <gmp-map center="21.306791305541992,-157.8557891845703" zoom="14" map-id="DEMO_MAP_ID">
-      <gmp-advanced-marker position="21.306791305541992,-157.8557891845703" title="My location"></gmp-advanced-marker>
-    </gmp-map>
-    
     <main id="form">
-      <div id="destination-form">
-
-      
+      <div id="left-container">
+        <div id="destination-info">
           <img src="https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Samoa">
+          <h1>Soamoa</h1>
+          <p>Samoa is a breathtaking island nation in the South Pacific, renowned for its pristine waterfalls, volcanic craters, and deep-rooted cultural heritage. The islands boast lush rainforests, dramatic coastlines, and serene beaches that make for a perfect tropical getaway. Visitors can swim in crystal-clear natural pools, such as the stunning To-Sua Ocean Trench, a hidden gem surrounded by vibrant greenery. Adventurous travelers can explore rugged volcanic landscapes, hike through dense rainforests leading to majestic waterfalls like Afu Aau Falls, or witness the awe-inspiring Alofaaga Blowholes.</p>
+        </div>
+
+      </div> 
+
+      <div id="right-container">
+        <div id="destination-form">
+          <form id="booking" action="">
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname" value=""><br>
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname" value=""><br><br>
+            <input type="submit" value="Submit">
+          </form>
+        </div>
+  
+        <div id="destination-map">
           <gmp-map center="21.306791305541992,-157.8557891845703" zoom="10" map-id="Hawaii">
             <gmp-advanced-marker position="21.306791305541992,-157.8557891845703" title="My location"></gmp-advanced-marker>
           </gmp-map>
+          </div>
+        </div>
+      </div>
+
+      
+    </main>
+
     
 
-        <h2>Soamoa</h2>
-        <p>Samoa offers pristine waterfalls, volcanic craters, and rich cultural heritage. Swim in natural pools, hike rainforest trails, and experience the warm Fa’a Samoa hospitality.</p>
-      </div>
-    </main>
+    <footer>
+      <p>&copy; 2025 Michael Balogun. All rights reserved.</p>
+    </footer>
+
     <script src="script.js"></script>
   </body>
 </html>
