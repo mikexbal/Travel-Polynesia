@@ -40,7 +40,11 @@ async function loadBooking(){
         destinationInfo.innerHTML = 
         `<img src="${location.image}" alt="${location.name}"/>
         <h1>${location.name}</h1>
-        <p>${location.long_desc}</p>`;
+        <p>${location.long_desc}</p>
+        <h1>Itinerary</h1>
+        <p>Day 1: ${location.itinerary.day_1}</p>
+        <p>Day 2: ${location.itinerary.day_2}</p>
+        <p>Day 3: ${location.itinerary.day_3}</p>`;
 
         let destinationMap = document.getElementById("destination-map");
         
