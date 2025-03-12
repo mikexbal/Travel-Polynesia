@@ -30,11 +30,30 @@
 
       <div id="right-container">
         <div id="destination-form">
+          <h1>Book Your Experience</h1>
           <form id="booking" action="">
+            <label for="location">Select Location: </label>
+            <select name="location" id="location">
+              <option value="hawaii">Hawaii</option>
+              <option value="bora">Bora Bora</option>
+              <option value="fiji">Fiji</option>
+              <option value="samoa">Samoa</option>
+              <option value="tonga">Tonga</option>
+              <option value="tahiti">Tahiti</option>
+            </select>
+        
+
             <label for="fname">First Name:</label><br>
             <input type="text" id="fname" name="fname" value=""><br>
+
             <label for="lname">Last Name:</label><br>
-            <input type="text" id="lname" name="lname" value=""><br><br>
+            <input type="text" id="lname" name="lname" value=""><br>
+
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email"><br>
+
+
+
             <input type="submit" value="Submit">
           </form>
         </div>
