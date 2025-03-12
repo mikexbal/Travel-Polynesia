@@ -6,42 +6,52 @@
     "image": "https://images.unsplash.com/photo-1545973586-829e3762e3a6?q=80&w=3058&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
     "short_desc": "Hawaii offers stunning beaches, lush rainforests, and majestic volcanoes. Enjoy surfing, hiking, and rich culture while experiencing breathtaking sunsets and warm Aloha spirit.",
     "long_desc": "",
-    "coordinates": ""
+    "coordinates": "21.271113766940164, -157.9480027117928"
     },
     
     { 
     "id": 2,
     "name": "Bora Bora",
     "image": "https://images.unsplash.com/photo-1589806036187-fcbc6a7a23b6?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-    "short_desc": "Bora Bora’s turquoise waters, lush mountains, and iconic overwater bungalows create a dreamy escape. Snorkel with manta rays, explore coral gardens, and relax in paradise."
+    "short_desc": "Bora Bora’s turquoise waters, lush mountains, and iconic overwater bungalows create a dreamy escape. Snorkel with manta rays, explore coral gardens, and relax in paradise.",
+    "long_desc": "",
+    "coordinates": "-16.510283, -151.741265"
     },
 
     { 
     "id": 3,
     "name": "Fiji",
     "image": "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-    "short_desc": "Fiji’s 333 islands feature white-sand beaches, coral reefs, and lush jungles. Dive with vibrant marine life, explore hidden caves, and enjoy friendly island hospitality."
+    "short_desc": "Fiji’s 333 islands feature white-sand beaches, coral reefs, and lush jungles. Dive with vibrant marine life, explore hidden caves, and enjoy friendly island hospitality.",
+    "long_desc": "",
+    "coordinates": "-17.903817, 177.952372"
     },
 
     { 
     "id": 4,
     "name": "Samoa",
     "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-    "short_desc": "Samoa offers pristine waterfalls, volcanic craters, and rich cultural heritage. Swim in natural pools, hike rainforest trails, and experience the warm Fa’a Samoa hospitality."
+    "short_desc": "Samoa offers pristine waterfalls, volcanic craters, and rich cultural heritage. Swim in natural pools, hike rainforest trails, and experience the warm Fa’a Samoa hospitality.",
+    "long_desc": "",
+    "coordinates": "-13.673566, -172.424570"
     },
 
     { 
     "id": 5,
     "name": "Tonga",
     "image": "https://www.state.gov/wp-content/uploads/2023/07/shutterstock_522889303v2.jpg", 
-    "short_desc": "Tonga’s untouched beauty includes secluded beaches, limestone caves, and humpback whale encounters. Experience authentic culture, traditional feasts, and tranquil island serenity."
+    "short_desc": "Tonga’s untouched beauty includes secluded beaches, limestone caves, and humpback whale encounters. Experience authentic culture, traditional feasts, and tranquil island serenity.",
+    "long_desc": "",
+    "coordinates": "-21.187381, -175.207844"
     },
 
     { 
     "id": 6,
     "name": "Tahiti",
     "image": "https://images.unsplash.com/photo-1706868957973-8b656c240dbc?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
-    "short_desc": "Tahiti boasts crystal-clear lagoons, black sand beaches, and vibrant coral reefs. Enjoy luxury overwater bungalows, French-Polynesian cuisine, and mesmerizing traditional dance performances."
+    "short_desc": "Tahiti boasts crystal-clear lagoons, black sand beaches, and vibrant coral reefs. Enjoy luxury overwater bungalows, French-Polynesian cuisine, and mesmerizing traditional dance performances.",
+    "long_desc": "",
+    "coordinates": "-17.666295, -149.429503"
     }
 
    
