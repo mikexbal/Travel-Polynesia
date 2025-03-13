@@ -74,3 +74,21 @@ async function loadBooking(){
 }
 
 loadBooking();
+
+function submitForm(){
+    let name = `${document.getElementById('fname').value} ${document.getElementById('lname').value}`;
+    let email = `${document.getElementById('email').value}`
+    let numTravelers = `${document.getElementById('number_of_travelers').value}`
+    let departureDate = `${document.getElementById('departure_date').value}`
+    let returnDate = `${document.getElementById('return_date').value}`
+
+    console.log("Name: " + name);
+    console.log("Email: " + name);
+    console.log("Number of Travelers: " + name);
+    console.log("Departure Date: " + name);
+    console.log("Return Date: " + name);
+
+    window.close();
+
+    alert("Trip successfully booked!")
+}
