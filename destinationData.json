@@ -5,7 +5,12 @@
     "name": "Hawaii",
     "image": "https://images.unsplash.com/photo-1545973586-829e3762e3a6?q=80&w=3058&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
     "short_desc": "Hawaii offers stunning beaches, lush rainforests, and majestic volcanoes. Enjoy surfing, hiking, and rich culture while experiencing breathtaking sunsets and warm Aloha spirit.",
-    "long_desc": "",
+    "long_desc": "Imagine waking up to the sound of gentle waves, sipping fresh pineapple juice, and heading out for a day of snorkeling with sea turtles in crystal-clear waters. You can take a scenic drive along the Road to Hana, stopping at waterfalls and black sand beaches, or hike up Diamond Head for a panoramic view of Waikiki. If you're into culture, experience a traditional luau with Hawaiian music, hula dancing, and delicious food like kalua pig and poke.",
+    "itinerary": {
+      "day_1": "Arrive in Hawaii and relax on Ka’anapali Beach!",
+      "day_2": "Explore Haleakalā National Park and snokel at the Molokini Crater",
+      "day_3": "Take a ride on the road to Hana and enjoy scenic views"
+    },
     "coordinates": "21.322068, -157.844806"
     },
     
@@ -14,7 +19,12 @@
     "name": "Bora Bora",
     "image": "https://images.unsplash.com/photo-1589806036187-fcbc6a7a23b6?q=80&w=3096&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
     "short_desc": "Bora Bora’s turquoise waters, lush mountains, and iconic overwater bungalows create a dreamy escape. Snorkel with manta rays, explore coral gardens, and relax in paradise.",
-    "long_desc": "",
+    "long_desc": "Feel the soft, powdery sand beneath your feet as you walk out of your overwater bungalow, the lagoon sparkling in the morning sun. Start your day with a paddleboard ride across the crystal-clear waters, spotting rays gliding beneath you. In the afternoon, snorkel at Coral Gardens or take a thrilling jet ski tour around Mount Otemanu. As the sun sets, enjoy a private beachfront dinner with the sound of gentle waves and the scent of fresh hibiscus in the air.",
+    "itinerary": {
+      "day_1": "Arrive in Bora Bora and unwind at Matira Beach!",
+      "day_2": "Snorkel at Coral Gardens and explore Mount Otemanu",
+      "day_3": "Visit a peal darm and enjoy a scenic lagoon crusise"
+    },
     "coordinates": "-16.510283, -151.741265"
     },
 
@@ -23,7 +33,12 @@
     "name": "Fiji",
     "image": "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
     "short_desc": "Fiji’s 333 islands feature white-sand beaches, coral reefs, and lush jungles. Dive with vibrant marine life, explore hidden caves, and enjoy friendly island hospitality.",
-    "long_desc": "",
+    "long_desc": "Wake up to the sound of palm trees swaying in the breeze, stepping outside to a golden sunrise over the ocean. After a hearty breakfast of tropical fruits, set off on an adventure to explore hidden waterfalls on Taveuni, known as the “Garden Island.” Snorkel in the Great Astrolabe Reef, where vibrant coral and marine life thrive. As the evening settles in, experience a traditional kava ceremony in a local village, followed by a mesmerizing fire dance under the stars.",
+    "itinerary": {
+      "day_1": "Arrive in Fiji and relax on Natadola Beach!",
+      "day_2": "Snorkel at the Great Astrolabe Reef and hike to Bouma Waterfalls.",
+      "day_3": "Visit a Fijian village and take a boat to the Yasawa Islands."
+    },
     "coordinates": "-17.903817, 177.952372"
     },
 
@@ -32,7 +47,12 @@
     "name": "Samoa",
     "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
     "short_desc": "Samoa offers pristine waterfalls, volcanic craters, and rich cultural heritage. Swim in natural pools, hike rainforest trails, and experience the warm Fa’a Samoa hospitality.",
-    "long_desc": "",
+    "long_desc": "Start your day with the scent of fresh frangipani flowers as you stroll along Lalomanu Beach, one of the most untouched beaches in the Pacific. Take a dip in the breathtaking To Sua Ocean Trench, a natural deep-water swimming hole surrounded by lush greenery. After lunch, hike through O Le Pupu-Pue National Park, where waterfalls and volcanic craters await. End your day with a lively fiafia night, filled with traditional Samoan dancing, storytelling, and an island feast cooked in an underground oven.",
+    "itinerary": {
+      "day_1": "Arrive in Samoa and lounge on Lalomanu Beach!",
+      "day_2": "Swim in the To Sua Ocean Trench and hike O Le Pupu-Pue Park.",
+      "day_3": "Visit Robert Louis Stevenson’s Museum and snorkel at Palolo Deep."
+    },
     "coordinates": "-13.673566, -172.424570"
     },
 
@@ -41,7 +61,12 @@
     "name": "Tonga",
     "image": "https://www.state.gov/wp-content/uploads/2023/07/shutterstock_522889303v2.jpg", 
     "short_desc": "Tonga’s untouched beauty includes secluded beaches, limestone caves, and humpback whale encounters. Experience authentic culture, traditional feasts, and tranquil island serenity.",
-    "long_desc": "",
+    "long_desc": "Step outside your beachfront fale and watch as the ocean glows with the first light of day. After a hearty breakfast, embark on a once-in-a-lifetime experience—swimming alongside humpback whales in their natural habitat. Spend the afternoon exploring hidden caves and dramatic coastal cliffs, or relax on a secluded beach with warm, powdery sand. As night falls, enjoy a feast of fresh seafood and root vegetables while watching a Tongan cultural dance show lit by fire torches.",
+    "itinerary": {
+      "day_1": "Arrive in Tonga and explore Ha’atafu Beach!",
+      "day_2": "Swim with humpback whales and visit the Mapu’a ‘a Vaea blowholes.",
+      "day_3": "Discover ancient royal tombs and relax on a private sandbank."
+    },
     "coordinates": "-21.187381, -175.207844"
     },
 
@@ -50,7 +75,12 @@
     "name": "Tahiti",
     "image": "https://images.unsplash.com/photo-1706868957973-8b656c240dbc?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
     "short_desc": "Tahiti boasts crystal-clear lagoons, black sand beaches, and vibrant coral reefs. Enjoy luxury overwater bungalows, French-Polynesian cuisine, and mesmerizing traditional dance performances.",
-    "long_desc": "",
+    "long_desc": "Open your window to the scent of vanilla and tropical blooms as a gentle ocean breeze drifts in. Take a morning dip in the turquoise lagoon before hopping on a ferry to Mo’orea, where you can snorkel with sharks and rays in shallow waters. In the afternoon, take a scenic drive up to the Belvedere Lookout, offering panoramic views of lush volcanic peaks and deep blue bays. As the evening sets in, stroll through the bustling Papeete Market, picking up black pearls and handcrafted souvenirs before indulging in a delicious Tahitian feast under the stars.",
+    "itinerary": {
+      "day_1": "Arrive in Tahiti and soak up the sun at La Plage de Maui!",
+      "day_2": "Take a ferry to Mo’orea for snorkeling and dolphin watching.",
+      "day_3": "Explore Papeete Market and cruise through the lagoon."
+    },
     "coordinates": "-17.666295, -149.429503"
     }
 
