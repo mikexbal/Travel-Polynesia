@@ -1,4 +1,4 @@
-# Travel Polynesian
+# Travel Polynesia
 
 ## Overview
 **Travel Polynesian** is a web development project designed to provide users with an immersive experience in selecting and learning about six beautiful Polynesian islands. The platform allows users to explore their dream getaway destinations and book trips with ease.
