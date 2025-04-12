@@ -1,5 +1,3 @@
-# balogun-3344-project1
-
 # Travel Polynesian
 
 ## Overview
